@@ -30,4 +30,5 @@ ujson
 wget
 pytz
 aiohttp
+pip install --upgrade
 aiohttp==3.8.3
